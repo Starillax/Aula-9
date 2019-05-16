@@ -1,0 +1,11 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: red;
+    border: solid 5px black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 335px;
+    margin-right: 335px;
+}
